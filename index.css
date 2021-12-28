@@ -1,0 +1,1 @@
+body{font-family:Comic Sans MS,cursive,sans-serif}#content{display:grid;height:100vh;margin:0;place-items:center;width:100vw}#github-link{bottom:0;margin:2em;position:fixed;right:0}#github-link a img{height:64px;transition:all .2s ease-in-out;width:64px}#github-link a img:hover{transform:scale(1.1)}
